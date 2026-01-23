@@ -1,0 +1,18 @@
+database:
+  url: "sqlite:///data/dataforge.db"
+
+pipeline:
+  validate_emails: true
+  validate_dates: true
+  validate_amounts: true
+  date_format: "%Y-%m-%d"
+  skip_invalid: false
+
+api:
+  host: "0.0.0.0"
+  port: 8000
+  reload: true
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

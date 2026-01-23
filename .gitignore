@@ -1,0 +1,20 @@
+# DataForge
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+*.db
+data/output/*
+!data/output/.gitkeep
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+*.log
