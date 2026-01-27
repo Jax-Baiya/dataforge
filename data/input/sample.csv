@@ -1,0 +1,9 @@
+email,name,date,amount,category,status
+john.doe@example.com,John Doe,2024-01-15,150.00,Electronics,completed
+jane.smith@gmail.com,Jane Smith,15/01/2024,275.50,Clothing,completed
+invalid-email,Bob Wilson,2024-01-16,89.99,Books,pending
+mike@company.org,Mike Johnson,01-16-2024,432.00,Electronics,completed
+,Sarah Davis,2024/01/17,0,Clothing,cancelled
+test@test.com,Test User,2024-01-18,-50.00,Books,refunded
+mary.jones@email.com,Mary Jones,January 19 2024,199.99,Electronics,completed
+alex@domain.com,Alex Brown,2024-01-20,567.89,Clothing,completed
